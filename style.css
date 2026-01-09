@@ -1,0 +1,35 @@
+.gaji-box {
+    width: 80%;
+    margin: 40px auto;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+}
+
+.gaji-box th, .gaji-box td {
+    border: 1px solid black;
+    padding: 12px;
+    vertical-align: top;
+}
+
+.gaji-box th {
+    text-align: center;
+    font-weight: bold;
+}
+
+.input-area h3 {
+    margin-top: 0;
+}
+
+.input-area input {
+    width: 90%;
+    padding: 5px;
+}
+
+.input-area button {
+    padding: 6px 15px;
+    cursor: pointer;
+}
+
+.output-area p {
+    margin: 8px 0;
+}
